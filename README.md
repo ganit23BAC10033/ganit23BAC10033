@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganit23bac10033" alt="ganit23bac10033" /></a> </p>
 
-- 🔭 I’m currently working on [Embedded Systems Project as Project Exhibition - 1](https://github.com/ganit23BAC10033/Smart-Irigation)
+- 🔭 I’m currently Learning  [Embedded Systems](https://github.com/ganit23BAC10033/Smart-Irigation)
 
 - 📫 How to reach me **ganityadav07@gmail.com**
 
